@@ -4,7 +4,7 @@ import { useColorModeValue } from "@chakra-ui/react";
 
 import CreatePage from "./pages/CreatePage";
 import HomePage from "./pages/HomePage";
-import Navbar from "./components/ui/Navbar";
+import Navbar from "./components/Navbar";
 
 function App() {
   return (

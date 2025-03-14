@@ -3,7 +3,6 @@ import { BsPlusSquare } from "react-icons/bs";
 import { FaRegMoon } from "react-icons/fa";
 import { CiSun } from "react-icons/ci";
 import { Link } from 'react-router-dom';
-import { FaShoppingCart } from "react-icons/fa";
 
 const Navbar = () => {
 
