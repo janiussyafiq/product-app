@@ -32,5 +32,7 @@ To run the project locally, follow these steps:
 
 ### 1️⃣ Clone the repository
 ```sh
-git clone https://github.com/yourusername/product-app.git
+git clone https://github.com/janiussyafiq/product-app.git
 cd product-app
+npm run build
+npm run start
